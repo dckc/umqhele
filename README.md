@@ -2,7 +2,9 @@
 Umqhele is an application that allows your to auction and trade NTF tokens that grant access to live video streams. It allows you to auction live video streams for Moola. You can create auctions as well as bid on them. This dapp demonstrates Agoric contract composition, offer safety and object capabilities.
 
 #### Installing Prerequisites
-Ensure agoric is installed and working before running Umqhele. You can find details of how to setup Agoric here [gs]: https://agoric.com/documentation/getting-started/start-a-project.html .
+Ensure [agoric is installed and working][gs] before running Umqhele.
+
+[gs]: https://agoric.com/documentation/getting-started/start-a-project.html
 
 Unqhele uses ion-fsu for its video. In order to run ion-fsu, you will have to install Golang. You can download and install it from *[Go](https://golang.org/doc/install)*. Once that is done. You can following the instructions found on the ion-sfu readme page to install and run it *[ion-sfu](https://github.com/pion/ion-sfu)*.
 
