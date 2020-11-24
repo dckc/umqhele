@@ -9,7 +9,7 @@ Ensure [agoric is installed and working][gs] before running Umqhele.
 Unqhele uses ion-fsu for its video. In order to run ion-fsu, you will have to install Golang. You can download and install it from *[Go](https://golang.org/doc/install)*. Once that is done. You can following the instructions found on the ion-sfu readme page to install and run it *[ion-sfu](https://github.com/pion/ion-sfu)*.
 
 #### Umqhele Installation
- It uses Vue.js 3 as its framework and Bulma components for its UI styling. In order to run it, first ensure you acn [start up Agoric][gs] correctly. Then follow the steps below.
+ It uses Vue.js 3 as its framework and Bulma components for its UI styling. In order to run it, first ensure you can [start up Agoric][gs] correctly. Then follow the steps below.
 ```bash
 $ git clone https://github.com/ski/umqhele.git
 $ cd umqhele
